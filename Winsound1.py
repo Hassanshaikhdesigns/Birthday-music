@@ -1,0 +1,1 @@
+        time.sleep(durations[i] / 1000.0)
